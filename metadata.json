@@ -1,0 +1,8 @@
+{
+  "name": "ChatBuddy – WhatsApp Assistant",
+  "description": "AI WhatsApp assistant for small businesses to handle orders, bookings, FAQs, and customer support 24/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
